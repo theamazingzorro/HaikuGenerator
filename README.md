@@ -1,9 +1,9 @@
 # HaikuGenerator
 
-makes random haikus
-five seven five structure
-sense not required
+makes random haikus <br>
+five seven five structure <br>
+sense not required <br>
 
-uses lists of words
-with syllable counts and type
-choosing randomly
+uses lists of words <br>
+with syllable counts and type <br>
+choosing randomly <br>
